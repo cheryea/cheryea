@@ -10,9 +10,9 @@ That's <b>cheryea</b>, That's <b>me!</b><br>
 <br>
 <h3><b>〃I'm walking 'front-end' enjoying the road〃✍</b></h3><br>
 ################################################<br>
-👉 codepan : " https://codepen.io/Leesangho "<br>
-👉 T-story : " https://cystory.tistory.com " <br>
-👉 final-domain : " https://sanghointro.modoo.at "<br>
+👉 codepan : " <a href="https://codepen.io/Leesangho" target="_blank">https://codepen.io/Leesangho</a> "<br>
+👉 T-story : " <a href="https://cystory.tistory.com" target="_blank">https://cystory.tistory.com</a> " <br>
+👉 final-domain : " <a href="https://sanghointro.modoo.at" target="_blank">https://sanghointro.modoo.at</a> "<br>
 👉 Taking a class at the : " <a href="https://nw.ezenac.co.kr/" target="_blank"> ezen-academy</a> "<br>
 ################################################<br>
 <h2>✨My skill stack is piling up ~ </h2><br>
