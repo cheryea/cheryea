@@ -46,9 +46,9 @@
 
 ## 🔗 Links
 - 🌐 Blog: https://cystory.tistory.com
-- 🎨 CodePen: https://codepen.io/Leesangho
-- 📺 YouTube: https://www.youtube.com/@cheryeacoding
 - 🔗 Portfolio: https://leesangho.thesimple.ink
+- 📺 YouTube: https://www.youtube.com/@cheryeacoding
+- 🎨 CodePen: https://codepen.io/Leesangho
 
 ---
 
