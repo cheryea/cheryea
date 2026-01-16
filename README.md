@@ -27,7 +27,7 @@
 - **Vue**: <a href="https://github.com/cheryea/vue-minigame" target="_blank">vue-minigame</a>
 
 **Back-end / Language**
-- Python
+- **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">TIL(mini_project)</a>
 
 **Tools**
 - Git & GitHub
