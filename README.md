@@ -21,9 +21,9 @@
 ---
 
 ## 🛠 Tech Stack
-**Front-end**
-- HTML, CSS, JavaScript
-- React, Vue
+### **Front-end**
+- **HTML / CSS / JavaScript**: [Sony Clone](https://github.com/cheryea/sony)
+- **React**: [Wavve Clone](https://github.com/cheryea/react-wavve-clone), [Todo List](https://github.com/cheryea/react-todolist)
 
 **Back-end / Language**
 - Python
