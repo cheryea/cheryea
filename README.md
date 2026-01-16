@@ -22,8 +22,8 @@
 
 ## 🛠 Tech Stack
 ### **Front-end**
-- **HTML / CSS / JavaScript**: [Sony Clone](https://github.com/cheryea/sony)
-- **React**: [Wavve Clone](https://github.com/cheryea/react-wavve-clone), [Todo List](https://github.com/cheryea/react-todolist)
+- **HTML / CSS / JavaScript**: <a href="https://github.com/cheryea/sony" target="_blank">Sony Clone</a>
+- **React**: <a href="https://github.com/cheryea/react-wavve-clone" target="_blank">Wavve Clone</a>, <a href="https://github.com/cheryea/react-todolist" target="_blank">Todo List</a>
 
 **Back-end / Language**
 - Python
