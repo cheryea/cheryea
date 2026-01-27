@@ -26,10 +26,10 @@
 - **React**: <a href="https://github.com/cheryea/react-wavve-clone" target="_blank">Wavve Clone</a>, <a href="https://github.com/cheryea/react-todolist" target="_blank">Todo List</a>
 - **Vue**: <a href="https://github.com/cheryea/vue-minigame" target="_blank">vue-minigame</a>
 
-**Back-end / Language**
+### Back-end
 - **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">TIL(mini_project)</a>
 
-**Tools**
+### Tools
 - Git & GitHub
 - VS Code
 
