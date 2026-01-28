@@ -29,6 +29,11 @@
 ### Back-end
 - **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">TIL(mini_project)</a>
 
+### Database
+- MySQL / Oracle (Basic)
+- SQL Query (CRUD, JOIN, Subquery)
+- Data Modeling (ERD, Normalization)
+
 ### Tools
 - Git & GitHub
 - VS Code
