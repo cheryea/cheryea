@@ -27,11 +27,12 @@
 - **Vue**: <a href="https://github.com/cheryea/vue-minigame" target="_blank">vue-minigame</a>
 
 ### Back-end
-- **Python**(FastAPI, REST API, Pydantic): <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">mini_project(TIL)</a>
+- **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">mini_project(TIL)</a>
+- **FastAPI**(REST API, Pydantic): <a href="https://github.com/cheryea/TIL/tree/main/fastapi" target="_blank">fastapi</a>
 
-### Database <a href="https://github.com/cheryea/TIL/tree/main/database" target="_blank">(TIL)</a>
-- PostgreSQL
-- SQL Query (CRUD, JOIN)
+### Database
+- PostgreSQL: <a href="https://github.com/cheryea/TIL/tree/main/database/mini_project/lms/lms.md" target="_blank">LMS</a>
+- SQL Query (CRUD, JOIN) <a href="https://github.com/cheryea/TIL/tree/main/database/mini_project/lms/lms_setup.sql" target="_blank">LMS_SQL</a>
 - Data Modeling (ERD, Normalization)
 
 ### Tools
