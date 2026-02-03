@@ -27,17 +27,17 @@
 - **Vue**: <a href="https://github.com/cheryea/vue-minigame" target="_blank">vue-minigame</a>
 
 ### Back-end
-- **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">mini_project(TIL)</a>
+- **Python**(FastAPI, REST API, Pydantic): <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">mini_project(TIL)</a>
 
 ### Database <a href="https://github.com/cheryea/TIL/tree/main/database" target="_blank">(TIL)</a>
-- MySQL / Oracle (Basic)
-- SQL Query (CRUD, JOIN, Subquery)
+- PostgreSQL
+- SQL Query (CRUD, JOIN)
 - Data Modeling (ERD, Normalization)
 
 ### Tools
 - Git & GitHub
 - VS Code
-
+- Postman / Swagger
 ---
 
 ## 📂 What you can find here
