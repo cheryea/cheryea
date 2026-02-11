@@ -27,7 +27,7 @@
 - **Vue**: <a href="https://github.com/cheryea/vue-minigame" target="_blank">vue-minigame</a>
 
 ### Back-end
-- **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">mini_project(TIL)</a>
+- **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">mini_project</a>
 - **FastAPI**(REST API, Pydantic): <a href="https://github.com/cheryea/TIL/tree/main/fastapi" target="_blank">fastapi</a>
 
 ### Database
