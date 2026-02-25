@@ -28,7 +28,7 @@
 
 ### Back-end
 - **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">mini_project</a>
-- **FastAPI**(REST API, Pydantic): <a href="https://github.com/cheryea/TIL/tree/main/fastapi" target="_blank">fastapi</a>
+- **FastAPI**(REST API, Pydantic): <a href="https://github.com/cheryea/TIL/tree/main/fastapi" target="_blank">fastapi</a>/<a href="https://github.com/cheryea/studyroom-booking-api" target="_blank">studyroom-booking-api</a>
 
 ### Database
 - PostgreSQL: <a href="https://github.com/cheryea/TIL/tree/main/database/mini_project/lms/lms.md" target="_blank">LMS</a>
