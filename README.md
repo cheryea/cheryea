@@ -1,6 +1,6 @@
 <h1>👋Hello, I'm cheryea❗ </h1>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlZkQK%2FbtrLiWjQ1oM%2F1tKMkPwkKro2XriV7kFD0k%2Fimg.jpg" width="150"/>
-## 👋 Hello, I'm Sangho Lee
+##👋 Hello, I'm Sangho Lee
 
 문제를 발견하고, 이해하고, 정리하는 과정을 좋아하는  
 **주니어 프론트엔드 개발자**입니다.
