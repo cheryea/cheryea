@@ -22,7 +22,7 @@
 
 ## 🛠 Tech Stack
 ### Front-end
-- **HTML / CSS / JavaScript**: <a href="https://github.com/cheryea/sony" target="_blank">Sony Clone</a>
+- **HTML / CSS / JavaScript**: <a href="https://github.com/cheryea/sony" target="_blank">Sony Website Redesign</a>
 - **React**: <a href="https://github.com/cheryea/react-wavve-clone" target="_blank">Wavve Clone</a>, <a href="https://github.com/cheryea/react-todolist" target="_blank">Todo List</a>
 - **Vue**: <a href="https://github.com/cheryea/vue-minigame" target="_blank">vue-minigame</a>
 
