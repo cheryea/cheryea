@@ -1,6 +1,6 @@
 <h1>👋Hello, I'm cheryea❗ </h1>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlZkQK%2FbtrLiWjQ1oM%2F1tKMkPwkKro2XriV7kFD0k%2Fimg.jpg" width="150"/>
-##👋 Hello, I'm Sangho Lee
+👋 Hello, I'm Sangho Lee
 
 문제를 발견하고, 이해하고, 정리하는 과정을 좋아하는  
 **주니어 프론트엔드 개발자**입니다.
@@ -13,49 +13,67 @@
 ---
 
 ## 🌱 About Me
-- **프론트엔드 개발**: HTML, CSS, JavaScript 기반 UI 구현 경험  
-- **React & Vue 프로젝트**: 실전 UI 개발 경험 축적  
-- **AI & 백엔드 학습**: 서비스 전반 이해와 기술 스택 확장  
-- **개인 프로젝트 & TIL**: 꾸준한 성장과 이해 중심 학습
+- **프론트엔드 개발**: HTML, CSS, JavaScript 기반 UI 구현 경험
+- **React & Vue 프로젝트**: 실전 UI 개발 경험
+- **AI & 백엔드 학습**: 서비스 전반 이해를 위한 기술 확장
+- **개인 프로젝트 & TIL**: 이해 중심의 꾸준한 학습 기록
 
 ---
 
 ## 🛠 Tech Stack
+
 ### Front-end
-- **HTML / CSS / JavaScript**: <a href="https://github.com/cheryea/sony" target="_blank">Sony Website Redesign</a>
-- **React**: <a href="https://github.com/cheryea/react-wavve-clone" target="_blank">Wavve Clone</a>, <a href="https://github.com/cheryea/react-todolist" target="_blank">Todo List</a>
-- **Vue**: <a href="https://github.com/cheryea/vue-minigame" target="_blank">vue-minigame</a>
+- **HTML / CSS / JavaScript**
+  - [Sony Website Redesign](https://github.com/cheryea/sony)
+
+- **React**
+  - [Wavve Clone](https://github.com/cheryea/react-wavve-clone)
+  - [Todo List](https://github.com/cheryea/react-todolist)
+
+- **Vue**
+  - [Vue Mini Game](https://github.com/cheryea/vue-minigame)
 
 ### Back-end
-- **Python**: <a href="https://github.com/cheryea/TIL/tree/main/python" target="_blank">mini_project</a>
-- **FastAPI**(REST API, Pydantic): <a href="https://github.com/cheryea/TIL/tree/main/fastapi" target="_blank">fastapi</a>/<a href="https://github.com/cheryea/studyroom-booking-api" target="_blank">studyroom-booking-api</a>
+- **Python**
+  - [Mini Project](https://github.com/cheryea/TIL/tree/main/python)
+
+- **FastAPI** (REST API, Pydantic)
+  - [FastAPI Practice](https://github.com/cheryea/TIL/tree/main/fastapi)
+  - [Studyroom Booking API](https://github.com/cheryea/studyroom-booking-api)
 
 ### Database
-- PostgreSQL: <a href="https://github.com/cheryea/TIL/tree/main/database/mini_project/lms/lms.md" target="_blank">LMS</a>
-- SQL Query (CRUD, JOIN) <a href="https://github.com/cheryea/TIL/tree/main/database/mini_project/lms/lms_setup.sql" target="_blank">LMS_SQL</a>
-- Data Modeling (ERD, Normalization)
+- **PostgreSQL**
+  - [LMS](https://github.com/cheryea/TIL/tree/main/database/mini_project/lms/lms.md)
+
+- **SQL Query** (CRUD, JOIN)
+  - [LMS SQL](https://github.com/cheryea/TIL/tree/main/database/mini_project/lms/lms_setup.sql)
+
+- **Data Modeling**
+  - ERD
+  - Normalization
 
 ### Tools
 - Git & GitHub
 - VS Code
 - Postman / Swagger
+
 ---
 
 ## 📂 What you can find here
 - 📘 **TIL**: 공부하며 정리한 개발 기록
-- 🧩 **Mini Projects**: 작게 만들어보며 익힌 프로젝트들
-- 🛠 **Practice Code**: 개념 확인용 코드 실습
+- 🧩 **Mini Projects**: 작게 만들어보며 익힌 프로젝트
+- 🛠 **Practice Code**: 개념 확인을 위한 코드 실습
 
-> 완벽하지 않지만,  
+> 완벽하지 않지만  
 > 어제보다 나은 코드를 남기기 위해 노력하고 있습니다.
 
 ---
 
 ## 🔗 Links
-- 🌐 Blog: https://cystory.tistory.com
-- 🔗 Portfolio: https://leesangho.thesimple.ink
-- 📺 YouTube: https://www.youtube.com/@cheryeacoding
-- 🎨 CodePen: https://codepen.io/Leesangho
+- 🌐 Blog: https://cystory.tistory.com  
+- 🔗 Portfolio: https://leesangho.thesimple.ink  
+- 📺 YouTube: https://www.youtube.com/@cheryeacoding  
+- 🎨 CodePen: https://codepen.io/Leesangho  
 
 ---
 
