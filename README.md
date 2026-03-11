@@ -1,14 +1,16 @@
 <h1>👋Hello, I'm cheryea❗ </h1>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlZkQK%2FbtrLiWjQ1oM%2F1tKMkPwkKro2XriV7kFD0k%2Fimg.jpg" width="150"/>
-👋 Hello, I'm Sangho Lee
+👋안녕하세요, 이상호 입니다.
 
-문제를 발견하고, 이해하고, 정리하는 과정을 좋아하는  
-**주니어 프론트엔드 개발자**입니다.
+HTML, CSS, JavaScript 기반 UI 개발과  
+React / Vue 프로젝트 경험이 있으며
 
-작은 기능이라도  
-👉 왜 이렇게 동작하는지  
-👉 더 나은 방법은 없는지  
-끊임없이 고민하며 기록하려고 합니다.
+Python, FastAPI, PostgreSQL을 활용한 백엔드와  
+OpenAI API 기반 AI 기능 연동을 학습하며  
+서비스 전체 구조를 이해하려고 노력하고 있습니다.
+
+작은 기능이라도 동작 원리를 이해하고  
+더 나은 구조와 방법을 고민하며 학습 내용을 기록하고 있습니다.
 
 ---
 
