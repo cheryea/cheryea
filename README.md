@@ -13,10 +13,25 @@
 ---
 
 ## 🌱 About Me
-- **프론트엔드 개발**: HTML, CSS, JavaScript 기반 UI 구현 경험
-- **React & Vue 프로젝트**: 실전 UI 개발 경험
-- **AI & 백엔드 학습**: 서비스 전반 이해를 위한 기술 확장
-- **개인 프로젝트 & TIL**: 이해 중심의 꾸준한 학습 기록
+### Front-end Development
+- HTML, CSS, JavaScript 기반 UI 구현 경험
+- React / Vue 프로젝트를 통한 컴포넌트 기반 개발 경험
+- 실제 프로젝트를 통한 UI 구조 설계 및 상태 관리 경험
+
+### Back-end & API Understanding
+- Python / FastAPI 기반 REST API 학습
+- Pydantic을 활용한 데이터 검증 및 API 구조 이해
+- 서비스 전반 흐름을 이해하기 위한 백엔드 기술 학습
+
+### AI
+- LLM 기반 AI 기능 기본 적용 경험
+- 프롬프트 활용 및 AI 기능을 서비스에 연동하는 실습 경험
+- 서비스 확장을 위한 AI 기술 학습 진행 중
+
+### Database
+- PostgreSQL 기반 데이터 관리
+- CRUD, JOIN 등 SQL 쿼리 작성 경험
+- ERD 설계 및 데이터 정규화 개념 학습
 
 ---
 
@@ -61,6 +76,7 @@
 
 ## 📂 What you can find here
 - 📘 **TIL**: 공부하며 정리한 개발 기록
+    - [Git Hub TIL](https://github.com/cheryea/TIL)
 - 🧩 **Mini Projects**: 작게 만들어보며 익힌 프로젝트
 - 🛠 **Practice Code**: 개념 확인을 위한 코드 실습
 
